@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 testing
+=======
+untesting
+>>>>>>> 618fe9513d22b884e442e5fb3825e668f35bb56f
 wolrd
 
 commit
